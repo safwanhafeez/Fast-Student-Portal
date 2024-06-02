@@ -1,0 +1,72 @@
+2efcde9
+What is Deep Learning?
+dabfac4
+a) A type of machine learning that uses artificial neural networks with multiple layers
+b) A type of machine learning that uses decision trees to model complex problems
+c) A type of machine learning that uses clustering algorithms to group data
+d) None of the above
+2efcde9
+Which of the following is a common activation function used in deep learning neural networks?
+dabfac4
+a) Sigmoid
+b) Linear
+c) ReLU (Rectified Linear Unit)
+d) All of the above
+2efcde9
+Which of the following is a common deep learning framework/library?
+dabfac4
+a) TensorFlow
+b) PyTorch
+c) Keras
+d) All of the above
+2efcde9
+Which of the following is a common optimization algorithm used in deep learning?
+dabfac4
+a) Gradient Descent
+b) Stochastic Gradient Descent
+c) Adam Optimizer
+d) All of the above
+2efcde9
+What is the main difference between supervised and unsupervised learning in deep learning?
+dabfac4
+a) Supervised learning requires labeled data, while unsupervised learning does not.
+b) Supervised learning uses regression, while unsupervised learning uses clustering.
+c) Supervised learning uses neural networks, while unsupervised learning uses decision trees.
+d) None of the above.
+b94d27b
+Deep learning is a subset of machine learning that uses artificial neural networks with multiple layers to model and solve complex problems.
+dabfac4
+a) True
+b) False
+b94d27b
+Convolutional Neural Networks (CNNs) are a type of neural network commonly used for image classification in deep learning.
+dabfac4
+a) True
+b) False
+b94d27b
+Backpropagation is a common algorithm used to train neural networks in deep learning.
+dabfac4
+a) True
+b) False
+b94d27b
+Deep learning can be applied to various fields, such as natural language processing, computer vision, and speech recognition.
+dabfac4
+a) True
+b) False
+b94d27b
+Deep learning algorithms can automatically learn and improve from experience without being explicitly programmed.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is deep learning, and why is it important in modern artificial intelligence and machine learning applications?
+88f7ace
+What are neural networks, and how are they used to model complex systems and make predictions based on input data?
+88f7ace
+What is backpropagation, and how is it used to train neural networks by adjusting the weights of the network based on the error of the predictions?
+88f7ace
+What is convolutional neural networks (CNN), and how are they used to analyze visual data like images and videos?
+88f7ace
+What is recurrent neural networks (RNN), and how are they used to analyze sequential data like audio signals or text data?
+88f7ace

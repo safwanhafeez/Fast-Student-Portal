@@ -1,0 +1,71 @@
+What is the first step in the research process?
+dabfac4
+a) Conducting literature review
+b) Formulating research questions
+c) Collecting data
+d) Analyzing data
+2efcde9
+Which of the following research methods involves collecting data through observations and interviews?
+dabfac4
+a) Survey research
+b) Experimental research
+c) Case study research
+d) Qualitative research
+2efcde9
+Which of the following is a characteristic of a good research question?
+dabfac4
+a) It is too broad and general
+b) It has a clear and specific focus
+c) It has a predetermined answer
+d) It is not related to the research problem
+2efcde9
+Which of the following is a common measure of central tendency used in quantitative research?
+dabfac4
+a) Standard deviation
+b) Median
+c) Variance
+d) Interquartile range
+2efcde9
+What is the purpose of a research proposal?
+dabfac4
+a) To obtain funding for the research project
+b) To present the research findings
+c) To provide a summary of the literature review
+d) To outline the research plan and methodology
+b94d27b
+Research methodology is a systematic process of planning, conducting, and analyzing research.
+dabfac4
+a) True
+b) False
+b94d27b
+In quantitative research, data is collected in the form of words and descriptions.
+dabfac4
+a) True
+b) False
+b94d27b
+A research hypothesis is a statement that can be proven to be true or false.
+dabfac4
+a) True
+b) False
+b94d27b
+The sample size in a research study refers to the number of participants or subjects in the study.
+dabfac4
+a) True
+b) False
+b94d27b
+A research design is a detailed plan or strategy for conducting a research study.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is research methodology, and why is it important in conducting research?
+88f7ace
+What is a research question, and how is it used to guide the research process?
+88f7ace
+What are the different types of research methods, and how are they used in different fields of study?
+88f7ace
+What is a research proposal, and how is it used to outline the research project's objectives, methods, and expected outcomes?
+88f7ace
+What is data analysis, and how is it used to interpret and draw conclusions from research data?
+88f7ace

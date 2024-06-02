@@ -1,0 +1,72 @@
+2efcde9
+Which of the following is not a typical requirement elicitation technique?
+a) Interviews
+b) Surveys
+c) Prototyping
+dabfac4
+d) Debugging
+2efcde9
+What is the purpose of a use case diagram in software requirements engineering?
+dabfac4
+a) To identify the actors in a system and their interactions
+b) To model the flow of events in a system
+c) To specify the requirements of a system
+d) To design the user interface of a system
+2efcde9
+Which of the following is not a characteristic of a good requirement?
+a) Complete
+b) Consistent
+c) Ambiguous
+dabfac4
+d) Traceable
+2efcde9
+What is the purpose of a requirements traceability matrix?
+dabfac4
+a) To ensure that all requirements are testable
+b) To track changes to requirements during the software development process
+c) To ensure that all requirements are covered by test cases
+d) To track the relationships between requirements and other artifacts in the software development process
+2efcde9
+What is the difference between functional and non-functional requirements?
+dabfac4
+a) Functional requirements describe what the system should do, while non-functional requirements describe how the system should do it.
+b) Functional requirements describe how the system should do something, while non-functional requirements describe what the system should do.
+c) Functional requirements are necessary for the system to work, while non-functional requirements are optional.
+d) Functional requirements are written by the customer, while non-functional requirements are written by the development team.
+b94d27b
+A requirement is a statement that describes a capability or characteristic that a system must possess or a constraint that it must respect.
+dabfac4
+a) True
+b) False
+b94d27b
+User stories are a technique used to describe software requirements in an informal, natural language format.
+dabfac4
+a) True
+b) False
+b94d27b
+A requirement is considered to be traceable if its relationship to other artifacts in the software development process can be determined.
+dabfac4
+a) True
+b) False
+b94d27b
+The purpose of requirements validation is to ensure that requirements are complete, consistent, and free of errors.
+dabfac4
+a) True
+b) False
+b94d27b
+Requirements management involves the process of collecting, analyzing, documenting, and managing software requirements throughout the software development lifecycle.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is software requirements engineering, and why is it important in software development?
+88f7ace
+What is a software requirement, and how are requirements documented and managed throughout the software development life cycle?
+88f7ace
+What is the difference between functional and non-functional requirements, and why are both important in software development?
+88f7ace
+What is a use case, and how are use cases used to specify requirements for software systems?
+88f7ace
+What is requirements validation and verification, and how is it used to ensure that software requirements are complete, consistent, and correct?
+88f7ace

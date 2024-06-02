@@ -1,0 +1,72 @@
+2efcde9
+What is Big Data Analytics?
+dabfac4
+a) The process of analyzing large and complex datasets to uncover hidden patterns and correlations
+b) The process of analyzing small datasets to uncover hidden patterns and correlations
+c) The process of analyzing data using traditional statistical methods
+d) The process of visualizing data to make it more understandable
+2efcde9
+What is the main challenge in Big Data Analytics?
+dabfac4
+a) Collecting data
+b) Storing data
+c) Processing data
+d) Visualizing data
+2efcde9
+What is Hadoop?
+dabfac4
+a) A distributed computing system designed to handle Big Data
+b) A database management system for small datasets
+c) A programming language for statistical analysis
+d) A data visualization tool
+2efcde9
+What is MapReduce?
+dabfac4
+a) A programming model for processing large data sets with a parallel, distributed algorithm on a cluster
+b) A data storage system for Big Data
+c) A data visualization tool
+d) A query language for Big Data
+2efcde9
+What is a data warehouse?
+dabfac4
+a) A centralized repository that stores large amounts of data from different sources
+b) A distributed system designed to handle Big Data
+c) A programming model for processing large data sets
+d) A database management system for small datasets
+b94d27b
+Big Data Analytics is used to analyze structured data only.
+dabfac4
+a) True
+b) False
+b94d27b
+Big Data Analytics can help businesses make more informed decisions.
+dabfac4
+a) True
+b) False
+b94d27b
+Big Data Analytics is not useful in scientific research.
+dabfac4
+a) True
+b) False
+b94d27b
+Machine learning is an important component of Big Data Analytics.
+dabfac4
+a) True
+b) False
+b94d27b
+Big Data Analytics requires specialized tools and technologies to handle large and complex datasets.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is big data analysis, and why is it important in modern businesses and industries?
+88f7ace
+What is Hadoop, and how is it used to process and analyze large datasets?
+88f7ace
+What is MapReduce, and how is it used to process data in parallel across distributed systems?
+88f7ace
+What is data mining, and how is it used to extract useful insights and knowledge from large datasets?
+88f7ace
+What is machine learning, and how is it used to build predictive models and identify patterns in big data?
+88f7ace

@@ -1,0 +1,73 @@
+2efcde9
+Which of the following is not a fundamental data type in C++?
+a) int
+b) float
+c) char
+dabfac4
+d) string
+2efcde9
+Which of the following is used for single line comments in C++?
+dabfac4
+a) //
+b) /
+c) #
+d) '
+2efcde9
+Which of the following is not a control structure in C++?
+a) if
+b) for
+c) while
+dabfac4
+d) switch
+2efcde9
+Which of the following is the correct way to declare a variable in C++?
+a) var x;
+b) x = int;
+dabfac4
+c) int x;
+d) x = 5;
+2efcde9
+Which of the following is an example of a logical operator in C++?
+a) +
+b) %
+dabfac4
+c) ||
+d) /
+2efcde9
+b94d27b
+A compiler is a program that converts source code written in a high-level programming language into executable code.
+dabfac4
+a) True
+b) False
+b94d27b
+C++ is a dynamically typed programming language.
+dabfac4
+a) True
+b) False
+b94d27b
+The ++ operator increments the value of a variable by 1 in C++.
+dabfac4
+a) True
+b) False
+b94d27b
+In C++, the modulus operator (%) returns the remainder of integer division.
+dabfac4
+a) True
+b) False
+b94d27b
+A function in C++ must always return a value.
+a) True
+dabfac4
+b) False
+b94d27b
+88f7ace
+What is the purpose of a variable in C++ programming, and how are variables declared and initialized?
+88f7ace
+How are control structures like if-else statements and loops used to control the flow of a C++ program?
+88f7ace
+What are arrays in C++ programming, and how are they used to store multiple values of the same data type?
+88f7ace
+How are functions defined and called in C++ programming, and what is the purpose of function parameters and return values?
+88f7ace
+What is object-oriented programming (OOP) in C++, and how are classes and objects used to create reusable code and simplify program design?
+88f7ace

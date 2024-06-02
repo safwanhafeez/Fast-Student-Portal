@@ -1,0 +1,80 @@
+2efcde9
+Which of the following is not a primary component of a computer system?
+a) Input devices
+b) Output devices
+dabfac4
+c) Cooling system
+d) CPU
+2efcde9
+Which of the following is an example of a secondary storage device?
+a) RAM
+dabfac4
+b) Hard disk drive
+c) Motherboard
+d) Power supply unit
+2efcde9
+Which of the following is not a type of software?
+a) Application software
+b) System software
+c) Malware
+dabfac4
+d) Hardware
+2efcde9
+Which of the following is not a characteristic of a computer virus?
+a) Self-replicating
+b) Destructive
+c) Stealthy
+dabfac4
+d) Helpful
+2efcde9
+What is the binary equivalent of the decimal number 13?
+a) 1011
+b) 1001
+c) 1101
+dabfac4
+d) 1101
+b94d27b
+A computer network is a group of interconnected computers that communicate and share resources.
+dabfac4
+a) True
+b) False
+b94d27b
+Which of the following is not a type of network topology?
+a) Star
+b) Ring
+c) Mesh
+dabfac4
+d) Line
+b94d27b
+What is the unit of measurement for the speed of data transfer?
+a) Bits per second
+dabfac4
+b) Bytes per second
+c) Hertz
+d) Meters per second
+b94d27b
+Which of the following is an example of an input device?
+a) Monitor
+b) Printer
+c) Speakers
+dabfac4
+d) Keyboard
+b94d27b
+Which of the following is an example of an output device?
+a) Mouse
+b) Scanner
+c) Microphone
+dabfac4
+d) Display monitor
+b94d27b
+88f7ace
+What is computing, and how does it relate to the broader field of information technology?
+88f7ace
+What is an algorithm, and how are algorithms used to solve problems in computing?
+88f7ace
+What is a programming language, and how are programming languages used to write computer programs?
+88f7ace
+What are the basic components of a computer system, and how do they work together to process information?
+88f7ace
+What is the role of software in computing, and how are different types of software used in different computing environments?
+88f7ace

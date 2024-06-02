@@ -1,0 +1,71 @@
+2efcde9
+Which of the following is not a common image format?
+dabfac4
+a) JPEG
+b) PNG
+c) BMP
+d) MPG
+2efcde9
+What is the term used to describe the process of converting a continuous image into a digital image?
+dabfac4
+a) Quantization
+b) Sampling
+c) Segmentation
+d) Filtering
+2efcde9
+Which of the following is not a commonly used image enhancement technique?
+dabfac4
+a) Contrast stretching
+b) Histogram equalization
+c) Noise reduction
+d) Image binarization
+2efcde9
+Which of the following is an example of a linear filter?
+dabfac4
+a) Median filter
+b) Gaussian filter
+c) Laplacian filter
+d) Sobel filter
+2efcde9
+What is the name of the technique used to extract features from an image?
+dabfac4
+a) Segmentation
+b) Filtering
+c) Detection
+d) Extraction
+b94d27b
+Digital image processing is the use of computer algorithms to process digital images.
+dabfac4
+a) True
+b) False
+b94d27b
+A digital image is a representation of a physical image in a digital format.
+dabfac4
+a) True
+b) False
+b94d27b
+Image segmentation is the process of partitioning an image into multiple segments or regions, each representing a different object or part of the image.
+dabfac4
+a) True
+b) False
+b94d27b
+Image filtering is a technique used to remove noise and enhance the features of an image.
+dabfac4
+a) True
+b) False
+b94d27b
+Image thresholding is a technique used to convert a grayscale image into a binary image.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is digital image processing, and why is it important in modern imaging and computer vision applications?
+88f7ace
+What is an image histogram, and how is it used to analyze the distribution of pixel values in an image?
+88f7ace
+What are image filters, and how are they used to manipulate an image to achieve specific effects or improve image quality?
+88f7ace
+What is image segmentation, and how is it used to divide an image into distinct regions or objects for further analysis?
+88f7ace
+What are edge detection techniques, and how are they used to detect and highlight edges or boundaries in an image?

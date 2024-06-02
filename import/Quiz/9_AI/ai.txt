@@ -1,0 +1,72 @@
+2efcde9
+What is the definition of Artificial Intelligence (AI)?
+dabfac4
+a) The study of computer algorithms that can perform tasks without human intervention.
+b) The study of how to make computers more efficient at processing data.
+c) The study of how to build faster and more powerful computers.
+d) None of the above.
+2efcde9
+Which of the following is not a subfield of AI?
+a) Machine Learning
+b) Natural Language Processing
+c) Computer Vision
+dabfac4
+d) Compiler Design
+2efcde9
+What is a neural network?
+dabfac4
+a) A type of algorithm used in unsupervised machine learning.
+b) A type of algorithm used in supervised machine learning.
+c) A type of algorithm used in deep learning.
+d) A type of algorithm used in reinforcement learning.
+2efcde9
+Which of the following is not an AI programming language?
+a) Python
+b) R
+c) Java
+dabfac4
+d) HTML
+2efcde9
+What is an expert system?
+dabfac4
+a) A system that can reason about a problem domain and provide advice to a user.
+b) A system that can automatically detect anomalies in data.
+c) A system that can automatically cluster data points into groups.
+d) None of the above.
+b94d27b
+AI is a branch of computer science that focuses on creating machines that can perform tasks that typically require human intelligence.
+dabfac4
+a) True
+b) False
+b94d27b
+Deep learning is a type of machine learning that uses artificial neural networks to enable the computer to learn from data inputs and make decisions without being specifically programmed.
+dabfac4
+a) True
+b) False
+b94d27b
+Natural Language Processing (NLP) is a subfield of AI that focuses on teaching machines to understand, interpret and generate human language.
+dabfac4
+a) True
+b) False
+b94d27b
+Artificial General Intelligence (AGI) refers to the ability of a machine to understand or learn any intellectual task that a human can.
+dabfac4
+a) True
+b) False
+b94d27b
+Machine learning algorithms can automatically improve their performance by learning from data inputs, without being explicitly programmed.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is artificial intelligence, and why is it important in modern technology and industries?
+88f7ace
+What is machine learning, and how is it used to build predictive models and identify patterns in data?
+88f7ace
+What is natural language processing, and how is it used to enable machines to understand and interact with human language?
+88f7ace
+What is computer vision, and how is it used to enable machines to interpret and analyze visual data?
+88f7ace
+What is neural networks, and how are they used to model complex systems and solve difficult problems?
+88f7ace

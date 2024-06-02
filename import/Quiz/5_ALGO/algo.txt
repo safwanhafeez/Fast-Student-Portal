@@ -1,0 +1,71 @@
+Which of the following is the fastest asymptotic complexity?
+dabfac4
+a) O(n)
+b) O(n log n)
+c) O(n^2)
+d) O(log n)
+2efcde9
+Which of the following is a common algorithmic technique to reduce the time complexity of a problem?
+dabfac4
+a) Greedy algorithms
+b) Divide and conquer
+c) Dynamic programming
+d) All of the above
+2efcde9
+What is the time complexity of a linear search algorithm in the worst case?
+dabfac4
+a) O(n)
+b) O(log n)
+c) O(1)
+d) O(n^2)
+2efcde9
+Which of the following is a stable sorting algorithm?
+dabfac4
+a) QuickSort
+b) MergeSort
+c) HeapSort
+d) None of the above
+2efcde9
+What is the time complexity of the Bubble Sort algorithm in the worst case?
+dabfac4
+a) O(n)
+b) O(n log n)
+c) O(n^2)
+d) O(log n)
+b94d27b
+An algorithm's time complexity is the measure of the amount of time it takes to run as a function of the size of its input.
+dabfac4
+a) True
+b) False
+b94d27b
+The Big-O notation is used to describe the upper bound of the time complexity of an algorithm.
+dabfac4
+a) True
+b) False
+b94d27b
+The time complexity of an algorithm refers to the exact time it takes to execute on a specific machine.
+b) False
+dabfac4
+a) True
+b94d27b
+The Space complexity of an algorithm refers to the amount of memory space it takes to run as a function of the size of its input.
+dabfac4
+a) True
+b) False
+b94d27b
+The time complexity of an algorithm can be improved by optimizing its code and reducing unnecessary computations.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is the analysis of algorithms, and why is it important in computer science?
+88f7ace
+What is the big-O notation, and how is it used to describe the time complexity of an algorithm?
+88f7ace
+What is a sorting algorithm, and how does its time complexity impact its performance on different data sets?
+88f7ace
+What is a searching algorithm, and how does its time complexity impact its performance on different data sets?
+88f7ace
+What is dynamic programming, and how is it used to optimize the performance of algorithms on certain types of problems?
+88f7ace

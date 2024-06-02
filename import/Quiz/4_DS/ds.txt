@@ -1,0 +1,78 @@
+Which of the following is a non-linear data structure?
+a) Array
+b) Linked List
+c) Stack
+dabfac4
+d) Tree
+2efcde9
+Which of the following is not a time complexity of sorting algorithms?
+a) O(n^2)
+b) O(n log n)
+dabfac4
+c) O(log n)
+d) O(n)
+2efcde9
+Which of the following data structures uses a Last-In-First-Out (LIFO) ordering scheme?
+a) Queue
+b) Heap
+c) Linked List
+dabfac4
+d) Stack
+2efcde9
+Which of the following is a type of tree that is always balanced?
+a) AVL Tree
+b) Binary Search Tree
+dabfac4
+c) Heap
+d) Red-Black Tree
+2efcde9
+Which of the following is not an example of a linear data structure?
+a) Array
+b) Linked List
+dabfac4
+c) Queue
+d) Tree
+2efcde9
+Which of the following is an example of an abstract data type?
+a) Array
+b) Integer
+c) Float
+dabfac4
+d) Stack
+b94d27b
+Data structures are used to store and organize data in a computer so that it can be used efficiently.
+dabfac4
+a) True
+b) False
+b94d27b
+A binary tree is a tree data structure in which each node has at most two children.
+dabfac4
+a) True
+b) False
+b94d27b
+A queue is a data structure in which the first element inserted is the first one to be removed.
+dabfac4
+a) True
+b) False
+b94d27b
+A heap is a tree-like data structure in which each node has a key greater than or equal to all of its children.
+dabfac4
+a) True
+b) False
+b94d27b
+A hash table is a data structure that implements an associative array abstract data type, which allows mapping keys to values.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is a data structure, and how are data structures used to organize and store data in computer programs?
+88f7ace
+What is an array in data structures, and how is it used to store a collection of data elements of the same data type?
+88f7ace
+What is a linked list in data structures, and how does it differ from an array in terms of its structure and implementation?
+88f7ace
+What is a stack in data structures, and how is it used to manage data in a last-in-first-out (LIFO) manner?
+88f7ace
+What is a queue in data structures, and how is it used to manage data in a first-in-first-out (FIFO) manner?
+88f7ace

@@ -1,0 +1,27 @@
+Which of the following is not a fundamental data type in C++?
+a) int
+b) float
+c) char
+d) string
+Which of the following is used for single line comments in C++?
+a) //
+b) /
+c) #
+d) '
+Which of the following is not a control structure in C++?
+a) if
+b) for
+c) while
+d) switch
+A compiler is a program that converts source code written in a high-level programming language into executable code.
+a) True
+b) False
+C++ is a dynamically typed programming language.
+a) True
+b) False
+The ++ operator increments the value of a variable by 1 in C++.
+a) True
+b) False
+In C++, the modulus operator (%) returns the remainder of integer division.
+a) True
+b) False

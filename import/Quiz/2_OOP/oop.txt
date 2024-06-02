@@ -1,0 +1,72 @@
+2efcde9
+Which of the following is not a basic principle of object-oriented programming?
+a) Encapsulation
+b) Polymorphism
+c) Inheritance
+dabfac4
+d) Recursion
+2efcde9
+Which of the following is not an access specifier in C++?
+a) public
+b) private
+c) protected
+dabfac4
+d) internal
+2efcde9
+Which of the following is true about inheritance in object-oriented programming?
+a) It allows a class to inherit from multiple base classes
+b) It allows a derived class to access private members of the base class
+c) It promotes code reusability and reduces redundancy
+dabfac4
+c) It promotes code reusability and reduces redundancy
+2efcde9
+Which of the following is a characteristic of an abstract class in C++?
+a) It can be instantiated
+b) It can have both concrete and abstract member functions
+c) It can be used as a base class for other classes
+dabfac4
+b) It can have both concrete and abstract member functions
+2efcde9
+Which of the following is not a type of polymorphism in object-oriented programming?
+a) Function overloading
+b) Operator overloading
+c) Method overloading
+dabfac4
+d) Inheritance overloading
+b94d27b
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code to manipulate that data.
+dabfac4
+a) True
+b) False
+b94d27b
+In C++, a class can be derived from multiple base classes using multiple inheritance.
+dabfac4
+a) True
+b) False
+b94d27b
+Encapsulation is a concept in OOP that binds together data and functions that manipulate that data, and keeps both safe from outside interference and misuse.
+dabfac4
+a) True
+b) False
+b94d27b
+Inheritance allows a class to inherit properties and methods of another class, promoting code reusability and reducing redundancy in the code.
+dabfac4
+a) True
+b) False
+b94d27b
+Polymorphism is a concept in OOP that allows objects to take on multiple forms and have multiple behaviors, depending on the context in which they are used.
+dabfac4
+a) True
+b) False
+b94d27b
+88f7ace
+What is object-oriented programming (OOP), and how does it differ from procedural programming?
+88f7ace
+What is a class in C++ programming, and how is it used to encapsulate data and behavior?
+88f7ace
+How are objects created and used in C++ programming, and what is the purpose of constructors and destructors?
+88f7ace
+What is inheritance in C++ programming, and how does it allow classes to be derived from other classes?
+88f7ace
+How are virtual functions used in C++ programming, and what is their purpose in supporting polymorphism?
+88f7ace
